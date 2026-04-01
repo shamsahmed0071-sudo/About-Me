@@ -32,3 +32,14 @@ Skilled in Python, Excel, and SQL, with a focus on healthcare analytics.
 - Physical Therapy  
 - Healthcare Systems  
 - Medical Data Interpretation  
+
+## 🌟 Soft Skills
+
+- 🧠 Critical Thinking  
+- 🗣️ Communication Skills  
+- 🤝 Teamwork & Collaboration  
+- ⏱️ Time Management  
+- 🔍 Problem-Solving  
+- 📚 Continuous Learning  
+- 🎯 Attention to Detail  
+- 💡 Adaptability  

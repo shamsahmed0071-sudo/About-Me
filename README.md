@@ -1,7 +1,7 @@
 # Hello! I'm Shams Ahmed
 
 ## Physiotherapist | Data Analyst
-
+---
 Turning healthcare knowledge into data-driven insights.
 Skilled in Python, Excel, and SQL, with a focus on healthcare analytics.
 ---
